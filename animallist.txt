@@ -1,0 +1,7 @@
+Pig
+Chicken
+Duck
+Goat
+Horse
+Cow
+Sheep
